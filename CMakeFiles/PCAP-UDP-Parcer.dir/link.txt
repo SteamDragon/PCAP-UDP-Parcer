@@ -1,0 +1,1 @@
+/usr/bin/g++    -lpcap -g   CMakeFiles/PCAP-UDP-Parcer.dir/main.cpp.o  -o PCAP-UDP-Parcer -rdynamic -lpcap 

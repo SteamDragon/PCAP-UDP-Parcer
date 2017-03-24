@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tardis/git/PCAP-UDP-Parcer/main.cpp
+arpa/inet.h
+-
+cstdlib
+-
+iostream
+-
+net/ethernet.h
+-
+netinet/in.h
+-
+netinet/ip.h
+-
+netinet/udp.h
+-
+pcap.h
+-
+optionparser.h
+/home/tardis/git/PCAP-UDP-Parcer/optionparser.h
+
+/home/tardis/git/PCAP-UDP-Parcer/optionparser.h
+intrin.h
+-
+

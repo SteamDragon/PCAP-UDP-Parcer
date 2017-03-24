@@ -1,0 +1,3 @@
+/home/tardis/git/PCAP-UDP-Parcer/CMakeFiles/edit_cache.dir
+/home/tardis/git/PCAP-UDP-Parcer/CMakeFiles/rebuild_cache.dir
+/home/tardis/git/PCAP-UDP-Parcer/CMakeFiles/PCAP-UDP-Parcer.dir
